@@ -4,13 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfouadlagha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfouadlagha" /> </p>
 <img align="right" alt="Coding" width="400" src="https://itcpk.org/wp-content/uploads/2020/10/R1.png">
+
 - 🔭 I’m currently competing on [kaggle](https://www.kaggle.com/ahmedfouadlagha)
 
 - 🌱 I’m currently learning more about **Reinforcement learning**
 
 - 👯 I’m looking to collaborate on **NLP/Vision projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedfouadlagha](https://github.com/ahmedfouadlagha)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ahmedfouadlagha)
 
 - 📝 I regularly write articles on [soon](soon)
 
