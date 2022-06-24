@@ -1,10 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ahmedfouadlagha.io)
 <h1 align="center">Hey there 👋, I'm I'm Ahmed F. LAGHA</h1>
-<h3 align="center">CS Student, GitHub Campus Expert and an AI enthusiast</h3>
+<h3 align="center">CS Student and an AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfouadlagha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfouadlagha" /> </p>
 <img align="right" alt="Coding" width="400" src="https://itcpk.org/wp-content/uploads/2020/10/R1.png">
-- 🔭 I’m currently competing on [Kaggle] (https://www.kaggle.com/ahmedfouadlagha)
+- 🔭 I’m currently competing on [Kaggle](https://www.kaggle.com/ahmedfouadlagha)
 
 - 🌱 I’m currently learning more about **Reinforcement learning**
 
