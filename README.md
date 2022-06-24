@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfouadlagha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfouadlagha" /> </p>
 <img align="right" alt="Coding" width="400" src="https://itcpk.org/wp-content/uploads/2020/10/R1.png">
-- 🔭 I’m currently competing on [Kaggle](https://www.kaggle.com/ahmedfouadlagha)
+- 🔭 I’m currently competing on [kaggle](https://www.kaggle.com/ahmedfouadlagha)
 
 - 🌱 I’m currently learning more about **Reinforcement learning**
 
