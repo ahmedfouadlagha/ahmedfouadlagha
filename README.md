@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ahmedfouadlagha)
 
-- 📝 I regularly write articles on [soon](soon)
+- 📝 I regularly write articles on [Soon](https://fouad.hashnode.dev/)
 
 - 💬 Ask me about anythings with **Machine learning, NLP and Vision.**
 
