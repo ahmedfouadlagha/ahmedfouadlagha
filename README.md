@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Ahmed F. LAGHA</h1>
+<h1 align="center">Hey there 👋, I'm Ahmed Fouad LAGHA</h1>
 <h3 align="center">CS Student and an AI enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfouadlagha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfouadlagha" /> </p>
 <img align="right" alt="Coding" width="400" src="https://itcpk.org/wp-content/uploads/2020/10/R1.png">
