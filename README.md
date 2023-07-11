@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **NLP/Vision projects**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/ahmedfouadlagha)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ahmedfouadlagha?tab=repositories)
 
 - 📝 I regularly write articles on [Soon](https://fouad.hashnode.dev/)
 
