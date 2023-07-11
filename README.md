@@ -2,7 +2,7 @@
 <h3 align="center">a Software Engineer and an AI enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfouadlagha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfouadlagha" /> </p>
 <p align="center">
-  <a href="https://ahmedfouadlagha.social/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=th3-gr00t.tk&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fth3-gr00t.tk%2F"></a>
+  <a href="https://ahmedfouadlagha.social/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=ahmed fouad lagha&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fahmedfouadlagha%2F"></a>
 </p>
 <p align="right">
 <a href="https://twitter.com/ahmedfouadlagha/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40th3_gr00t-1DA1F2?logo=twitter&style=for-the-badge" /></a>
