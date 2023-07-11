@@ -5,8 +5,8 @@
   <a href="https://ahmedfouadlagha.social/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=ahmed fouad lagha&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fahmedfouadlagha%2F"></a>
 </p>
 <p align="right">
-<a href="https://twitter.com/ahmedfouadlagha/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40th3_gr00t-1DA1F2?logo=twitter&style=for-the-badge" /></a>
-<!--<a href="https://twitter.com/ahmedfouadlagha/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>-->
+<a href="https://twitter.com/ahmedfouadlagha/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40ahmedfouadlagha-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+<!--<a href="https://twitter.com/ahmedfouadlagha/" alt="twitter"><img src="https://img.shields.io/twitter/follow/ahmedfouadlagha?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>-->
 </p>
 <img align="right" alt="Coding" width="400" src="https://itcpk.org/wp-content/uploads/2020/10/R1.png">
 
