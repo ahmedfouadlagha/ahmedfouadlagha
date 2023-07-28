@@ -33,6 +33,5 @@
 <a href="https://twitter.com/ahmedfouadlagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedfouadlagha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedfouadlagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-fouad-lagha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19390784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19390784" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmedfouadlagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedfouadlagha" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/ahmedfouadlagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahmedfouadlagha" height="30" width="40" /></a>
 </p>
