@@ -1,8 +1,6 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> , I'm Ahmed Fouad LAGHA</h1>
 <h3 align="center">a Software Engineer and an AI enthusiast</h3>
-<p align="center">
-  <a href="https://ahmedfouadlagha.social/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=ahmed fouad lagha&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fahmedfouadlagha%2F"></a>
-</p>
+
 <p align="center">
   <a href="https://twitter.com/ahmedfouadlagha/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40ahmedfouadlagha-1DA1F2?logo=twitter&style=for-the-badge" /></a>
 <!--<a href="https://twitter.com/ahmedfouadlagha/" alt="twitter"><img src="https://img.shields.io/twitter/follow/ahmedfouadlagha?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>-->
