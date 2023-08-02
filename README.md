@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Soon](https://fouad.hashnode.dev/)
 
-- 💬 Ask me about anythings with **Machine learning, NLP and Vision.**
+- 💬 Ask me about anythings with **NLP/Vision.**
 
 - 📫 How to reach me **laghaahmedfouad@gmail.com**
 
