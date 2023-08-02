@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **laghaahmedfouad@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1fn632upD_NxPDUupquzw8UesXV3aw0F33/view?usp=sharing)
+- 📄 Know about my experiences [here]()
 
 - ⚡ Fun fact **Pteronophobia is the fear of being tickled by feathers.**
 
