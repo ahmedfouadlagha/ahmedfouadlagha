@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://itcpk.org/wp-content/uploads/2020/10/R1.png">
 
-- 🔭 I’m currently competing on [kaggle](https://www.kaggle.com/ahmedfouadlagha)
+- 🔭 I’m currently competing on [kaggle](https://www.kaggle.com/ahmedfouadlagha) and [LeetCode](https://leetcode.com/ahmedfouadlagha/)
 
 - 🌱 I’m currently learning more about **Reinforcement learning**
 
