@@ -1,5 +1,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> , I'm Ahmed Fouad LAGHA</h1>
-<h3 align="center">a Software Engineer and an AI enthusiast</h3>
+<h3 align="center">
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;YouTuber)](https://git.io/typing-svg)
+</h3>
 
 <p align="center">
   <a href="https://twitter.com/ahmedfouadlagha/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40ahmedfouadlagha-1DA1F2?logo=twitter&style=for-the-badge" /></a>
